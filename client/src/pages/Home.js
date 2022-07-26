@@ -806,89 +806,12 @@ const Home = () => {
                         </div>
                       </div>
                     </div>
-                    <div
-                      className="slide slide-one"
-                      style={{
-                        backgroundImage: "url(images/home/1.jpg)",
-                        height: "750px",
-                      }}
-                    >
-                      <div className="container">
-                        <div className="row home-content-home2-style">
-                          <div className="col-lg-12 p0">
-                            <h2 className="banner-title">
-                              <small>2021</small> <br /> Audi A8 L 55
-                            </h2>
-                            <h3 className="banner_top_title text-thm">
-                              <span className="aminated-object1">
-                                <img
-                                  className="objects"
-                                  src="images/home/title-bottom-border.svg"
-                                  alt=""
-                                />
-                              </span>
-                              <span>$746</span>{" "}
-                              <small className="text-white">/ Month</small>
-                            </h3>
-                            <a
-                              href="page-car-single-v1.html"
-                              className="btn banner-btn"
-                            >
-                              Learn More
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      className="slide slide-one"
-                      style={{
-                        backgroundImage: "url(images/home/6.jpg)",
-                        height: "750px",
-                      }}
-                    >
-                      <div className="container">
-                        <div className="row home-content-home2-style">
-                          <div className="col-lg-12 p0">
-                            <h2 className="banner-title">
-                              <small>2021</small> <br /> BMW M8 Gran Coupe
-                            </h2>
-                            <h3 className="banner_top_title text-thm">
-                              <span className="aminated-object1">
-                                <img
-                                  className="objects"
-                                  src="images/home/title-bottom-border.svg"
-                                  alt=""
-                                />
-                              </span>
-                              <span>$746</span>{" "}
-                              <small className="text-white">/ Month</small>
-                            </h3>
-                            <a
-                              href="page-car-single-v1.html"
-                              className="btn banner-btn"
-                            >
-                              Learn More
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="carousel-btn-block banner-carousel-btn">
-                    <span className="carousel-btn left-btn">
-                      <i className="flaticon-left-arrow left"></i>
-                    </span>
-                    <span className="carousel-btn right-btn">
-                      <i className="flaticon-right-arrow right"></i>
-                    </span>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </section>
-
         <section className="whychose_us pb70 pt0">
           <div className="container">
             <div className="row mb20">
